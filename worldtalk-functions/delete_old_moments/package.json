@@ -1,9 +1,0 @@
-{
-  "name": "delete-old-moments",
-  "version": "1.0.0",
-  "description": "Delete moments older than 14 hours",
-  "main": "index.js",
-  "dependencies": {
-    "node-appwrite": "^11.0.0"
-  }
-}
