@@ -1,0 +1,9 @@
+{
+  "name": "ai-translate",
+  "version": "1.0.0",
+  "description": "Translate text using DeepSeek AI via Logflare",
+  "main": "index.js",
+  "dependencies": {
+    "node-appwrite": "^11.0.0"
+  }
+}
